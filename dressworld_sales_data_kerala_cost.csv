@@ -1,0 +1,101 @@
+OrderID,Date,CustomerID,CustomerName,Gender,Age,Category,ProductType,ProductName,Cost,Quantity,PricePerUnit,TotalAmount,PaymentMethod,StoreLocation
+1,15-03-2024,97d53347-35e9-4f68-b2f2-2062d83d94f0,Kristina Day,Male,35,Men,Top Wear,Sweater,13.61,3,22.61,67.83,Debit Card,Palakkad
+2,26-05-2024,b930d7ca-b13a-4dab-8aa6-e1a7f6549b97,Edward Wade,Female,25,Kids,Bottom Wear,Trousers,57.28,3,62.28,186.84,Net Banking,Palakkad
+3,02-11-2024,2f4596f1-c1b4-4074-8aca-5f2888893aeb,Dean Meyer,Female,60,Kids,Bottom Wear,Joggers,67.89,3,78.89,236.67,Credit Card,Alappuzha
+4,15-10-2024,3dfe9c01-bca6-435a-8853-399acd6e5fa4,Brittney Monroe,Male,34,Men,Bottom Wear,Shorts,36.65,5,48.65,243.25,UPI,Kollam
+5,08-03-2024,8ed87207-7d13-4377-832a-5f7c97003f94,Zachary Norris,Male,38,Women,Accessories,Belt,69.72,5,76.72,383.6,Credit Card,Kochi
+6,17-08-2024,882049e1-0af5-432f-8560-032259113dc9,Hannah Moreno,Female,36,Women,Inner Wear,Undergarments,29.27,3,39.27,117.81,Cash,Alappuzha
+7,25-12-2024,d86b034b-d1fe-462e-bde0-a313157f1900,Maureen Carter,Female,18,Women,Top Wear,Blouse,47.13,3,61.13,183.39,Cash,Kochi
+8,26-05-2024,2cbe23df-7aed-4a8e-af3f-2524f033d317,Sandy Walls,Male,26,Women,Bottom Wear,Trousers,63.22,1,76.22,76.22,Net Banking,Thrissur
+9,07-05-2024,a90a4797-4c29-42b9-8ef3-533d6ff5f278,Jeremy Cooper,Male,41,Women,Top Wear,Sweater,89,2,97,194,Credit Card,Alappuzha
+10,21-02-2024,7b3b0025-7bfd-4300-ad94-65b6027d41a6,Shelly Jackson,Male,45,Kids,Inner Wear,Thermals,56.33,3,67.33,201.99,Cash,Palakkad
+11,18-05-2024,c4b7fa57-b36d-4f96-9811-7a58e888af75,Alyssa Stewart,Male,34,Men,Inner Wear,Socks,40.27,2,46.27,92.54,UPI,Kollam
+12,10-01-2025,ef1742e9-dd3d-4036-b6ff-8fcaf372ef74,Kevin Charles Jr.,Male,22,Kids,Inner Wear,Vests,50.12,4,58.12,232.48,Net Banking,Thiruvananthapuram
+13,25-06-2024,2a9a5b51-3748-4354-81a1-63d58e4b5122,Emily Russell,Female,27,Men,Accessories,Handbag,50.12,5,55.12,275.6,Cash,Kozhikode
+14,15-12-2024,e46e2ef8-f22b-411f-b77d-29b63ca89a8d,Michael Johnson,Male,29,Kids,Bottom Wear,Shorts,33.97,1,45.97,45.97,Cash,Kannur
+15,21-09-2024,2af77e3e-b441-4ec4-9aed-d834550edbf1,Mrs. Kathleen Ramos,Female,55,Women,Bottom Wear,Jeans,13.57,5,27.57,137.85,Debit Card,Thiruvananthapuram
+16,25-02-2024,3a07353a-bd29-4403-b9b2-5ad2016aa1ed,Janice Marshall,Female,38,Men,Inner Wear,Vests,73.46,4,86.46,345.84,Debit Card,Palakkad
+17,28-01-2025,8810cf5b-5b22-45c4-9d38-f5938668149b,Katherine Lee,Male,41,Women,Accessories,Handbag,25.2,1,31.2,31.2,Net Banking,Alappuzha
+18,13-12-2024,31ca4a50-5bb4-4dec-9567-b701ba4e1999,Kristina Frank,Male,38,Men,Top Wear,Shirt,58.42,1,70.42,70.42,Credit Card,Thiruvananthapuram
+19,25-11-2024,bcc9b152-7a9e-4095-9432-b17a46caef77,Amber Garcia,Male,57,Men,Inner Wear,Socks,6.34,2,18.34,36.68,Credit Card,Kochi
+20,23-02-2024,1bc791f6-35de-4efd-b094-0d623e5097f4,Paul Stevens,Male,35,Men,Top Wear,Blouse,6.6,3,13.6,40.8,UPI,Palakkad
+21,03-02-2025,0fc968d2-2ef8-4447-aa53-1c0aec6d34a4,Tyler Baker,Male,22,Kids,Inner Wear,Thermals,38.47,2,45.47,90.94,UPI,Thiruvananthapuram
+22,15-08-2024,8b56dbfb-b13e-44cd-835f-00994913dd3b,Jesus Brown,Female,38,Men,Bottom Wear,Skirt,40.55,3,52.55,157.65,Cash,Thrissur
+23,31-03-2024,072398cb-49e6-4296-a4cc-a9f5a0598d07,Jonathan Taylor,Female,19,Men,Inner Wear,Thermals,89.9,2,97.9,195.8,UPI,Alappuzha
+24,04-12-2024,296366ed-d218-4aa7-8851-190fd962d3a0,Phillip Bates,Female,34,Kids,Bottom Wear,Shorts,50.08,3,56.08,168.24,UPI,Kannur
+25,03-06-2024,32f20c6f-1a3e-44d6-a5da-0cdb3cae8d18,Lindsey Stewart,Male,52,Kids,Accessories,Handbag,1.67,4,9.67,38.68,Cash,Palakkad
+26,23-06-2024,c1a86fe8-c677-4f2b-89f5-78b624f68aa4,Sarah Stone,Male,58,Men,Bottom Wear,Joggers,64.33,4,73.33,293.32,Credit Card,Thrissur
+27,07-01-2025,ddf420e4-c4db-465f-883d-d54c92567dc9,Mary Kaiser,Male,33,Men,Top Wear,Sweater,69.24,2,77.24,154.48,UPI,Alappuzha
+28,23-12-2024,36b67f77-3cc5-42d5-b144-bc71287eeb02,Jessica Freeman,Male,59,Women,Accessories,Belt,54.5,5,64.5,322.5,Cash,Kollam
+29,07-08-2024,1262787a-7c6f-4c67-80fa-9d4e4e9c6fff,Thomas Moreno,Female,25,Kids,Accessories,Scarf,25.59,2,33.59,67.18,Net Banking,Kozhikode
+30,24-05-2024,1a629e24-d182-4fed-9c59-d534c312695c,Jacob Mata,Male,20,Women,Inner Wear,Lingerie,57.72,5,70.72,353.6,Net Banking,Kozhikode
+31,31-08-2024,5b40db83-12de-4ae9-8de2-6f323801cece,Sarah Neal,Male,50,Men,Bottom Wear,Jeans,61.89,2,69.89,139.78,Cash,Alappuzha
+32,21-06-2024,2880490b-c749-4c4d-82b0-e9a0b90c1695,Courtney Howard,Male,37,Men,Bottom Wear,Shorts,53.36,3,65.36,196.08,Net Banking,Kozhikode
+33,29-02-2024,b72c0795-fb2c-4c0c-91d2-f77d66383884,Karen Smith,Male,25,Kids,Bottom Wear,Joggers,5.32,4,8.68,34.72,Cash,Kozhikode
+34,02-03-2024,37ce31a6-193c-48fe-9511-68972098a11c,Zachary Johnson,Female,57,Women,Bottom Wear,Jeans,83.64,1,91.64,91.64,Debit Card,Thrissur
+35,05-08-2024,17921143-2aac-4238-a859-a57f7f085a87,Colleen Turner,Female,44,Kids,Inner Wear,Thermals,62.83,3,74.83,224.49,Credit Card,Kollam
+36,12-12-2024,6e0888ba-ad06-4cf6-af68-ef5d35ddbee7,Lauren Mayer,Male,20,Women,Bottom Wear,Jeans,7.74,4,13.74,54.96,UPI,Thiruvananthapuram
+37,09-07-2024,ae622802-abc5-4827-97b8-9f13856521a2,Sarah Greer,Male,21,Kids,Accessories,Watch,38,5,52,260,Debit Card,Thiruvananthapuram
+38,13-01-2025,24387e76-e0a8-4a99-b909-8737880bb742,Cynthia Gonzalez,Female,54,Women,Top Wear,Blouse,16.14,5,22.14,110.7,Net Banking,Palakkad
+39,20-10-2024,52a2f52b-360a-49f6-9c41-7de64127565c,Rebecca Hudson,Female,40,Kids,Top Wear,Sweater,1.46,2,13.46,26.92,Cash,Kozhikode
+40,28-03-2024,fa6e87ff-2865-4e38-8f56-1601d3a00452,Robert Wells,Male,22,Kids,Accessories,Cap,70.41,4,83.41,333.64,Net Banking,Kannur
+41,26-05-2024,234f6e61-a0da-4e21-96f6-f95770ef6242,Mrs. April Rodriguez MD,Female,48,Women,Inner Wear,Vests,20.27,3,31.27,93.81,Debit Card,Kollam
+42,15-04-2024,91bbd7fe-aee5-46b4-bc08-f96829c256b6,Chris Rodriguez,Male,32,Kids,Inner Wear,Undergarments,61.55,2,69.55,139.1,Credit Card,Kochi
+43,04-12-2024,5398472e-bc91-431e-b2ee-161021d380bd,James Smith,Female,32,Women,Bottom Wear,Shorts,16.85,3,23.85,71.55,Net Banking,Palakkad
+44,22-12-2024,9d3bc66c-a4bb-4add-9ef9-02f2f922a463,Steven Gonzalez,Male,47,Men,Bottom Wear,Shorts,36.08,5,46.08,230.4,Credit Card,Kollam
+45,30-05-2024,61b6936c-19d8-467f-bd73-c9d1c15f6781,Wayne Morris,Female,50,Men,Accessories,Watch,35.45,2,47.45,94.9,Net Banking,Thrissur
+46,28-07-2024,2c78f73d-0e6d-4f21-9254-1c69f5d3ed18,Jimmy Wright,Male,53,Kids,Top Wear,T-Shirt,76.66,1,85.66,85.66,Net Banking,Palakkad
+47,15-01-2025,4100a4cc-45d0-42c4-b9cd-62f207a4d0d4,Steven Mcdonald,Female,30,Kids,Inner Wear,Vests,3.57,3,15.57,46.71,Credit Card,Thrissur
+48,14-08-2024,15b703d3-e0bc-47c9-aa90-496e5b1fc208,Terri Sampson,Female,54,Kids,Top Wear,Shirt,9.43,2,19.43,38.86,Credit Card,Palakkad
+49,17-12-2024,8004f98d-8670-46c8-83c7-82d5635c549e,Jessica Hill,Male,57,Women,Inner Wear,Lingerie,67.5,5,72.5,362.5,Credit Card,Kollam
+50,11-08-2024,f82ca0a1-d35d-4170-9c54-dfac9d77dc9c,Stephen Harris,Female,57,Women,Bottom Wear,Joggers,3.46,3,8.46,25.38,Credit Card,Thiruvananthapuram
+51,10-06-2024,e9fe22b4-7da1-4856-b345-4cdb10b6c561,Dawn Barber,Male,22,Women,Top Wear,Blouse,6.27,1,13.27,13.27,Cash,Thiruvananthapuram
+52,25-03-2024,2bd667d3-52a9-4a51-a636-3d3d7372a730,Peter Simon,Male,18,Women,Accessories,Cap,51.18,2,61.18,122.36,Net Banking,Kochi
+53,26-01-2025,6c1873df-e561-4cd8-af8a-ca7656a06a89,Thomas Glover MD,Male,53,Women,Top Wear,T-Shirt,15.24,2,20.24,40.48,Cash,Kochi
+54,18-05-2024,fb46106d-1986-434d-823d-1f2fc9de2e4a,Walter Thompson,Male,41,Men,Inner Wear,Undergarments,24.34,2,34.34,68.68,Net Banking,Thiruvananthapuram
+55,27-12-2024,d4a636fb-3457-4742-bb5b-a0bd4fe77959,Veronica Romero,Male,47,Kids,Inner Wear,Undergarments,19.85,4,27.85,111.4,Debit Card,Alappuzha
+56,05-07-2024,2ad36c15-0bca-4aab-aab5-a89eb3432c1b,John Hampton,Female,40,Men,Bottom Wear,Skirt,6.71,5,17.71,88.55,Debit Card,Alappuzha
+57,24-06-2024,2e828e17-bfe6-4af0-a4c8-66531c76ab44,Michael Hall,Female,40,Women,Bottom Wear,Trousers,21.27,3,32.27,96.81,Net Banking,Palakkad
+58,13-02-2024,2557e690-05d0-408b-ad2e-0bd5e3945785,Terry Jensen,Female,54,Kids,Inner Wear,Undergarments,19.93,4,27.93,111.72,Credit Card,Kannur
+59,03-01-2025,bbfede6f-1a1f-44c7-89a3-7517864653a9,Marcus Garcia,Male,20,Women,Inner Wear,Socks,60.6,3,68.6,205.8,Cash,Thrissur
+60,01-03-2024,f23a410d-789f-4d4b-b5b8-5101f269e8f7,Stephanie Burke,Male,46,Men,Bottom Wear,Jeans,53.75,2,59.75,119.5,Credit Card,Kozhikode
+61,01-07-2024,24efc6ab-52d0-417a-9197-33eda41f9a3d,Regina Yates,Male,19,Men,Inner Wear,Lingerie,16.61,2,22.61,45.22,Cash,Kollam
+62,19-12-2024,1230e05b-0015-4f98-bf8c-270c06c10fde,Allen Shelton,Female,45,Women,Accessories,Watch,13.8,5,22.8,114,Net Banking,Kochi
+63,26-01-2025,96f0f36e-b72d-4678-b94c-bdc0104283b0,Jacob Garcia,Female,21,Women,Inner Wear,Socks,17.09,4,25.09,100.36,Credit Card,Palakkad
+64,06-10-2024,c1b0c197-9f06-43c3-a266-841ff1cf0237,Stacey Morrison,Male,59,Kids,Top Wear,Blouse,56.36,2,63.36,126.72,UPI,Kollam
+65,26-11-2024,04a1483e-13bb-461d-8640-5fe8b4b7cb46,Roy Kelly,Female,51,Kids,Top Wear,T-Shirt,82.5,4,88.5,354,Debit Card,Alappuzha
+66,18-09-2024,5c7bf20e-b26c-45a7-a567-1885a2720eb8,Mary Walker,Female,36,Kids,Accessories,Belt,3.11,5,9.89,49.45,Cash,Thrissur
+67,28-11-2024,da960726-3ff9-47d0-89b8-b610dc7b755f,Donna Torres,Female,38,Women,Top Wear,Jacket,3.16,3,14.16,42.48,Net Banking,Thiruvananthapuram
+68,23-11-2024,91e680be-f97d-45ab-8854-683b3315dfe7,Gary Sawyer,Male,46,Men,Top Wear,Blouse,6.16,2,6.84,13.68,Cash,Palakkad
+69,16-12-2024,6457855a-2971-4b3f-9230-e0e0ba6890eb,Ashley Roberson,Female,25,Women,Top Wear,Blouse,54.25,2,63.25,126.5,Net Banking,Thiruvananthapuram
+70,29-11-2024,f04b7ad8-24c7-4837-8a53-3d525c3264d8,Christopher Lopez,Male,30,Kids,Accessories,Scarf,6.61,4,12.61,50.44,UPI,Kollam
+71,09-02-2024,899d5329-a5ea-4b8f-83b2-f1f00bd917ae,Mrs. Jennifer Wong,Female,45,Kids,Accessories,Cap,55.38,2,68.38,136.76,Cash,Thiruvananthapuram
+72,08-06-2024,f2bfcc87-4923-4f0e-8f73-92a12185c44b,Rose Hill,Male,39,Men,Accessories,Handbag,76.09,3,86.09,258.27,Cash,Thrissur
+73,03-07-2024,1fad5f12-44d7-407c-aba9-29be8d425d3a,Nicole Boyd,Female,40,Women,Accessories,Handbag,25.05,5,35.05,175.25,Cash,Kollam
+74,30-08-2024,bc8430c6-4888-4443-bdbf-e5312e4e8828,Abigail Medina,Male,30,Kids,Top Wear,Sweater,6.75,1,11.75,11.75,UPI,Alappuzha
+75,22-07-2024,5966c96a-7973-4849-b7cf-b6e3329f2292,Robert Jones,Male,49,Kids,Top Wear,Jacket,3.43,5,16.43,82.15,Credit Card,Thrissur
+76,30-04-2024,81339ba7-3ef8-4b37-890c-548dc51ce837,Mr. David Kelley,Male,59,Women,Top Wear,Shirt,84.76,1,97.76,97.76,Credit Card,Alappuzha
+77,05-10-2024,117bf032-f236-416f-a89c-a3f06bcae49b,Tiffany Gonzalez,Female,45,Men,Bottom Wear,Shorts,30.29,4,36.29,145.16,Debit Card,Palakkad
+78,18-10-2024,1c8f0574-7d2d-466b-a85c-ade8513f7449,Robert Watkins,Female,25,Kids,Accessories,Handbag,10.93,5,22.93,114.65,Net Banking,Kollam
+79,19-05-2024,8aaf04f9-45c8-4aab-b639-c6216fc5263a,Stephen Robinson,Female,58,Men,Top Wear,Sweater,32.84,2,44.84,89.68,Net Banking,Alappuzha
+80,21-02-2024,c4f18820-cbe0-4a02-98fa-1c0db276edee,Rose Allen,Female,19,Kids,Inner Wear,Thermals,48.85,3,59.85,179.55,Credit Card,Kannur
+81,28-10-2024,4e81a6b6-7a34-4f18-a4fc-41b2568d53fa,Christopher Carr II,Male,34,Kids,Accessories,Scarf,20.55,5,30.55,152.75,Credit Card,Kozhikode
+82,01-07-2024,095a0c69-8b74-4a67-bb0d-a063847b22a3,Terrance Adkins,Female,19,Women,Top Wear,Blouse,53.09,2,67.09,134.18,Net Banking,Kannur
+83,24-01-2025,01bf43b7-3a96-4c01-81ef-73ae9392d992,Lisa Gonzalez,Male,42,Kids,Bottom Wear,Shorts,43.38,3,55.38,166.14,Debit Card,Palakkad
+84,22-12-2024,c4ec38c3-7903-4e00-a658-d2c05b9b35f9,Austin Gonzalez,Male,49,Kids,Accessories,Scarf,60.56,5,74.56,372.8,Credit Card,Thiruvananthapuram
+85,15-11-2024,e8cc0b73-d57b-4e77-bbaa-6b16ca2abb3a,Charles Bradley,Female,60,Women,Accessories,Belt,41.26,2,46.26,92.52,Cash,Palakkad
+86,17-11-2024,12419d4b-503a-425e-a9cb-338dd5d8b420,Michele Grant,Female,44,Women,Accessories,Scarf,23.5,2,34.5,69,Debit Card,Thrissur
+87,20-07-2024,3ed54d9d-1251-4b58-a1ba-4d2f43d82465,Joshua Hansen,Male,47,Women,Top Wear,Jacket,12.83,4,17.83,71.32,Net Banking,Alappuzha
+88,11-11-2024,8c2687ac-778f-4723-8931-85da9e033449,Danielle Chang DDS,Male,26,Kids,Top Wear,Sweater,1.28,3,12.28,36.84,Cash,Palakkad
+89,18-11-2024,7289dded-2d5f-4a86-b019-be1ffb86f4af,Christopher Fisher,Male,22,Women,Inner Wear,Thermals,48.67,5,60.67,303.35,Cash,Palakkad
+90,21-09-2024,16650b31-6ff3-45ee-9db2-9467fe97e6eb,Jesse Hale,Female,33,Women,Inner Wear,Thermals,4.13,5,9.87,49.35,Cash,Kochi
+91,06-12-2024,a9d78b76-8e35-4750-817e-fc0ebf5ed636,Kara Young,Female,34,Kids,Bottom Wear,Jeans,35.25,1,47.25,47.25,Credit Card,Thiruvananthapuram
+92,15-12-2024,75f37023-b962-4aea-8c94-ee9cddc9ec1f,Anne Banks,Female,26,Kids,Bottom Wear,Trousers,69.22,5,82.22,411.1,Credit Card,Alappuzha
+93,28-12-2024,8e1eca84-2c7a-40f7-933e-cb2ee7da15c1,Krystal Jacobs,Female,39,Men,Inner Wear,Lingerie,83.62,2,90.62,181.24,UPI,Kochi
+94,16-05-2024,fdfc6a4c-d75c-4f82-8101-0522a6116351,Judy Phillips,Female,54,Women,Top Wear,Jacket,83.5,3,89.5,268.5,Cash,Kannur
+95,23-11-2024,9c279a6e-7f70-4f05-b540-3ad1a0dc7a4d,Lisa Werner,Female,30,Men,Top Wear,Jacket,36.37,3,41.37,124.11,Credit Card,Palakkad
+96,03-08-2024,ca057076-f976-4ae9-8f15-1392b99e5cdb,Kenneth Cardenas,Male,60,Women,Accessories,Scarf,0.8,2,8.8,17.6,Debit Card,Thiruvananthapuram
+97,18-03-2024,fe9c7457-d48b-41fc-8365-764bdf395ba7,Tammy Ibarra,Female,54,Kids,Inner Wear,Thermals,40.98,3,45.98,137.94,Cash,Kochi
+98,17-01-2025,ac77ea04-2bb7-44e5-b611-0725593c228a,Victoria Bird,Female,21,Kids,Bottom Wear,Skirt,13.01,1,19.01,19.01,UPI,Thiruvananthapuram
+99,20-10-2024,495a27a6-cc2e-4ae3-aee9-b1bef88b1c7f,Alice Thompson,Male,42,Kids,Bottom Wear,Trousers,18.19,3,32.19,96.57,Credit Card,Thrissur
+100,16-07-2024,f61f6c34-2bb1-4f59-9958-3a84d67da469,Joseph Kelly,Male,21,Men,Bottom Wear,Joggers,2.29,5,7.71,38.55,Debit Card,Palakkad
